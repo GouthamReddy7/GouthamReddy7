@@ -1,6 +1,6 @@
 # Hi there, I'm SAI GOUTHAM.K! 👋
 
-I'm a passionate DevOps Engineer with expertise in a variety of technologies. As a fresher, I'm eager to apply my skills and contribute to exciting projects.
+"I'm a fresher interested in pursuing a career as a DevOps Engineer. I'm enthusiastic about learning and applying a variety of technologies in this field, and I'm eager to contribute to exciting projects."
 
 ## 📄 Resume
 https://drive.google.com/file/d/1ikGfB4bY6Y0StZU7OdleqWo8HcgUtXMo/view?usp=drive_link
