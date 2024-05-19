@@ -32,6 +32,7 @@ https://drive.google.com/file/d/1ikGfB4bY6Y0StZU7OdleqWo8HcgUtXMo/view?usp=drive
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/k-sai-goutham-7b4a561a4/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/@_Gowtham_reddy)
+[![Hashnode](https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode)](https://hashnode.com/@gowthamr733)
 
 ---
 
