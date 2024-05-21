@@ -3,7 +3,7 @@
 "M-Tech Software Engineering student with a strong foundation in computer science and a keen interest in DevOps. I am enthusiastic about starting my career in DevOps and am eager to contribute to a dynamic team where I can continue to learn and grow. I am particularly interested in the areas of infrastructure as code, automation, and cloud-native applications, and I'm eager to contribute to exciting projects."
 
 ## 📄 Resume
-https://drive.google.com/file/d/1ikGfB4bY6Y0StZU7OdleqWo8HcgUtXMo/view?usp=drive_link
+https://drive.google.com/file/d/1kkAIjX_woYuCD84q3YLyYofzAsXnUvi4/view?usp=sharing
 
 ## 🛠️ Skills
 ### Programming Languages
